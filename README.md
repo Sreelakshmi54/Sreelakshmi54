@@ -1,21 +1,5 @@
-### Hi there 👋
-
-<!--
-**Sreelakshmi54/Sreelakshmi54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hi there, I'm [sreelakshmi]https://github.com/Sreelakshmi54! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![Profile views](https://gpvc.arturio.dev/arjun-ms)  
+## Hi there, I'm [Sreelakshmi](https://github.com/Sreelakshmi54!) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![Profile views](https://komarev.com/ghpvc/?username=naxwh&color=blueviolet)
 <br>
 
 ## I'm a Student, Developer and a Entrepreneur!
@@ -34,8 +18,8 @@ Here are some ideas to get you started:
 <br>
 
 ### Stats
-[![sreelakshmi's github stats]https://github.com/Sreelakshmi54/api?username=sreelakshmi-ms&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-ms&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Sreelakshmi's github stats](https://github-readme-stats.vercel.app/api?username=Sreelakshmi54&show_icons=true&theme=midnight-purple)](https://github.com/Sreelakshmi54/Sreelakshmi54)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreelakshmi54&layout=compact&theme=midnight-purple)](https://github.com/Sreelakshmi54/Sreelakshmi54)
 
 <br>
 
@@ -45,9 +29,8 @@ Here are some ideas to get you started:
 
 ### Give me a buzz
 [<img src='https://img.icons8.com/fluent/50/000000/github.png' alt='github' height='40'>](https://github.com/Sreelakshmi54)
-[<img src='https://img.icons8.com/fluent/50/000000/linkedin.png' alt='linkedin' height='40'>https://www.instagram.com/sr_ee_laks_hmi_/ 
-[<img src='https://img.icons8.com/fluent/50/000000/instagram-new.png' alt='instagram' height='40'>]https://www.instagram.com/sr_ee_laks_hmi_/  
+[<img src='https://img.icons8.com/fluent/50/000000/linkedin.png' alt='linkedin' height='40'>](https://www.instagram.com/sr_ee_laks_hmi_)
+[<img src='https://img.icons8.com/fluent/50/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/sr_ee_laks_hmi_)
 
 <br>
 <br>
-
